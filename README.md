@@ -1,4 +1,4 @@
-## How to install
+## How to use Code Style
 
 1. Clone it on your desktop
 2. **File** -> **Import Settings**
