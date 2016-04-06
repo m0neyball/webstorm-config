@@ -24,10 +24,10 @@ npm install --save-dev eslint-config-airbnb eslint-plugin-react babel-eslint esl
 4. select **ESLint package** /usr/local/lib/node_modules/eslint
 5. click **Apply**
 6. click **OK**
-7. add package.json **scripts** block
+7. add package.json **scripts** block, **yourESLintDirectory** substituting in your ESLint Directory, e.g. `eslint src`
 ```bash
 "scripts": {
-  "lint": "eslint yourDirectory"
+  "lint": "eslint yourESLintDirectory"
 }
 ```
 ### Terminal use ESLint
